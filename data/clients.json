@@ -3,17 +3,50 @@
         {
             "id": 0,
             "name": "Emi",
-            "age": 29
+            "age": 29,
+            "active": true
         },
         {
             "id": 1,
             "name": "Pepito",
-            "age": 60
+            "age": 60,
+            "active": false
         },
         {
             "id": 2,
             "name": "Jorge",
-            "age": 34
+            "age": 26,
+            "active": true
+        },
+        {
+            "id": 3,
+            "name": "Carla",
+            "age": 34,
+            "active": true
+        },
+        {
+            "id": 4,
+            "name": "Leonardo",
+            "age": 59,
+            "active": false
+        },
+        {
+            "id": 5,
+            "name": "Pepita",
+            "age": 22,
+            "active": true
+        },
+        {
+            "id": 6,
+            "name": "Susana",
+            "age": 48,
+            "active": true
+        },
+        {
+            "id": 7,
+            "name": "Ernesto",
+            "age": 35,
+            "active": false
         }
     ]
 }
